@@ -1,0 +1,9 @@
+ - hosts: all
+   tasks:
+       - name: Create a file
+         file:
+             path: /tmp/hello
+             state: touch
+             mode: 0644
+             owner: ec2-user
+
