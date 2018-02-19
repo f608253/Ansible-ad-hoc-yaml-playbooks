@@ -1,2 +1,2 @@
 manav kaay karto tumhi bhava
-mhi ka mala saangitla tumcha maahit naahi ka
+tumhi ka mala saangitla tumcha maahit naahi ka
